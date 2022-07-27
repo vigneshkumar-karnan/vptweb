@@ -6,10 +6,10 @@ import Logo from '../../assets/Logo.png'
 
 const Header = () => {
   return (
-    <section>
-        Logo
+    <header>
+        <img src={Logo} alt = "iprant logo" className = "v_logo" />
         <Nav></Nav>
-    </section>
+    </header>
   )
 
 }

@@ -6,7 +6,10 @@ import { Button } from '@mui/material'
 const Nav = () => {
   return (
     <nav>
-    Navbar
+    <Button>Home</Button>
+    <Button>About</Button>
+    <Button>Services</Button>
+    <Button>Contact</Button>
     </nav>
   )
 }

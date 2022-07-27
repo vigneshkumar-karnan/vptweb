@@ -1,0 +1,11 @@
+
+img {
+    width: 5rem;
+    height: 5rem;
+}
+
+Nav {
+    position: absolute;
+    top: 40%;
+    left: 30rem;
+}

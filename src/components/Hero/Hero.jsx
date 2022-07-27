@@ -3,9 +3,9 @@ import './Hero.css'
 
 const Hero = () => {
   return (
-    <div>
-       COntent 
-    </div>
+    <section>
+       Content 
+    </section>
   )
 }
 
