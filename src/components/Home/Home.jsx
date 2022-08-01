@@ -44,13 +44,12 @@ const Home = () => {
                 <SwiperSlide key={index} className="project">
                   <img src={background} alt="viprant" className='bg' />
                   <div className='layer'></div>
-                  <Header></Header>
                 </SwiperSlide>
               )
             })
           }
-          
-          <Hero></Hero>
+          <Header></Header>
+          <Hero className='h_Div'></Hero>
       </Swiper> 
   </section>    
   )

@@ -20,7 +20,9 @@
 }
 
 Header {
+    width: 70%;
     position:absolute;
     top: 2%;
     left: 15%;
+    z-index: 2;    
 }

@@ -1,11 +1,14 @@
 
-img {
-    width: 5rem;
+.v_logo {
+    width: auto;
     height: 5rem;
+    display: inline;
+    margin-top: 1rem;
 }
 
 Nav {
+    display: inline;
     position: absolute;
-    top: 40%;
-    left: 30rem;
+    top: 2rem;
+
 }
